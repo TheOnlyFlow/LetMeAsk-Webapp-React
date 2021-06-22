@@ -1,6 +1,6 @@
 
-# Letmeask
-<h1> Teste </h1>
+
+<h1 align='center'> Letmeask </h1>
 Este projeto foi desenvolvido com o aprendizado absorvido pela edição 6 do evento NLW na trilha react.
 Com ele, reforço meus conhecimentos dentro do ReactJs, aprendo a integrar a plataforma Firebase ao meu projeto, manter uma estrutura sucinta de projeto e clean code.
 
